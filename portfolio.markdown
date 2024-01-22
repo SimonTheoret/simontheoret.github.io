@@ -6,7 +6,7 @@ permalink: /portfolio/
 # Machine learning and (not so) related projects
 Here are some projects, the oldest of which started in the summer of 2023. Most of
 theses projects are written in Python, but I included some projects in Rust or Go. Some
-of these projects can contain parts written in Rust or Go.
+of these python can contain parts written in Rust or Go.
 
 
 # ML projects and work

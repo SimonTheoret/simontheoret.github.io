@@ -1,5 +1,5 @@
 * TODO LIST
-  - ( ) Prepare (quick) MLP blog post
+  - (x) Prepare (quick) MLP blog post
   - ( ) Prepare (quick) VGG/CNN blog post
   - ( ) Prepare GAN implementation blog post
   - ( ) Prepare Diffusion blog post
@@ -15,4 +15,11 @@
   -- ( ) Transformer banner
   -- ( ) SpeechCLf banner
   - ( ) Eliminate "WRITE CODE HERE" and "PDF" references
-  - ( ) Verify files with ChatGPT
+  - ( ) Verify files with ChatGPT:
+  -- ( ) Verify MLP
+  -- ( ) Verify VGG
+  -- ( ) Verify GAN
+  -- ( ) Verify Diffusion
+  -- ( ) Verify CV
+  -- ( ) Verify Transformer
+  -- ( ) Verify SpeechCLF
