@@ -31,6 +31,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jemoji
+  - jekyll-katex
 
 highlighter: rouge
 markdown: kramdown
@@ -40,6 +41,8 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
+
+usemathjax: true
 
 exclude: [todo.norg]
 # Exclude from processing.

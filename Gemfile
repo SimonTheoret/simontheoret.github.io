@@ -35,4 +35,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem 'json'
 gem 'jemoji'
 gem "kramdown-math-katex"
+group :jekyll_plugins do
+  gem 'jekyll-katex'
+end
 # gem 'webrick'

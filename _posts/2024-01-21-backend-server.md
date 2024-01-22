@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Backend server for Machine Learning models"
+title:  "Backend server for Machine Learning models (in Go!)"
 date:   2024-01-21 12:49:07 -0500
 ---
 Please note that this project is under a major restructuration and is anything but
