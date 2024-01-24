@@ -8,8 +8,14 @@ Here are some projects, the oldest of which started in the summer of 2023. Most 
 theses projects are written in Python, but I included some projects in Rust or Go. Some
 of these python can contain parts written in Rust or Go.
 
+# ML projects
 
-# ML projects and work
+[Implementing a CNN with numpy]({% post_url 2024-01-21-cnn %})
+
+[Implementing a MLP with numpy]({% post_url 2024-01-21-mlp %})
+
+[Implementing VGG16]({% post_url 2024-01-21-VGG16 %})
+
 
 # Rust projects
 [Rust pomodoro]({% post_url 2024-01-21-rust-timer %})
