@@ -5,11 +5,11 @@
 layout: home
 ---
 # Welcome to my personal page
-### This is a WIP project :construction:. This website will be updated often and may contain incomplete sections!
+### This is a WIP project :construction:. This website will be updated often and contains incomplete sections!
 
-For more informtions about me: [About me](/about)
+For more information about me: [About me](/about)
 
-For my machine learning portfolio: [Portfolio](/portfolio)
+For my ML portfolio: [Portfolio](/portfolio)
 
 For my cv: #INCLUDE cv.pdf HERE
 
