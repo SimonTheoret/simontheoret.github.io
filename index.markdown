@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Welcome to my personal page
 ---
-# Welcome to my personal page
 ### This is a WIP :construction:. This website contains incomplete sections!
 
 
