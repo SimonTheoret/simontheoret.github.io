@@ -10,7 +10,7 @@ of these python can contain parts written in Rust or Go.
 
 # ML projects
 
-[Implementing a CNN with numpy]({% post_url 2024-01-21-cnn %})
+[{% post_url 2024-01-21-cnn %}]({% post_url 2024-01-21-cnn %})
 
 [Implementing a MLP with numpy]({% post_url 2024-01-21-mlp %})
 
