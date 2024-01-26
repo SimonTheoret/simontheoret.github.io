@@ -2,6 +2,8 @@
 layout: post
 title:  "Building a GUI pomodoro in Rust"
 date:   2024-01-21 12:49:07 -0500
+project: timer
+background: gui.jpeg
 ---
 Project repo [here](https://github.com/SimonTheoret/timer)
 
