@@ -5,7 +5,7 @@
 layout: home
 title: Welcome to my personal page
 ---
-### This is a WIP :construction:. This website contains incomplete sections!
+### This is a WIP :construction:
 
 
 For more information about me: [About me](/about)

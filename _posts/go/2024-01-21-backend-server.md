@@ -5,8 +5,7 @@ date:   2024-01-21 12:49:07 -0500
 project: backend
 background: cutego.jpeg
 ---
-Please note that this project is under a major restructuration and is anything but
-stable.
+Please note that this project is under major restructuration
 
 [Repo](https://github.com/SimonTheoret/backend)
 
@@ -40,7 +39,7 @@ There are currently 3 supported operations for the models:
 - predict: Used at inference/generation time
 - getlogs: Returns the log in json format
 - cleanlogs: Cleans the log.
-- addmodel: Add a new model to the server
+- addmodel: Add a new model to the server (not supported yet)
 These operations are specified in the `operation` argument of the request.
 
 ## How to implement a model and extend the AI backend
