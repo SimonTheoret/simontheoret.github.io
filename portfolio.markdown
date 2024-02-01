@@ -10,7 +10,7 @@ of these python can contain parts written in Rust or Go.
 
 # ML projects
 
-[{% post_url 2024-01-21-cnn %}]({% post_url 2024-01-21-cnn %})
+[Implementing a CNN with numpy]({% post_url 2024-01-21-cnn %})
 
 [Implementing a MLP with numpy]({% post_url 2024-01-21-mlp %})
 
@@ -28,7 +28,7 @@ of these python can contain parts written in Rust or Go.
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}" target="_blank" >{{ post.title }}  </a>
     </li>
   {% endfor %}
 </ul>
